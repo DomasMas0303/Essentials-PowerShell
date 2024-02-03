@@ -1,4 +1,4 @@
-<h1>EPAM Essentials - Bash</h1>
+<h1>EPAM Essentials - PowerShell</h1>
 
 <h2>Description</h2>
 Each module consists of lectures followed by tests, homework, and a "final task".
